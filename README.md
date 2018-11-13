@@ -31,5 +31,5 @@ Anyone can use my work however they wish.
 
 Email: zelalem[dot]gero[at]gmail[dot]com
 
-NLTK is distributed under the [Apache License Version 2.0.] (http://www.apache.org/licenses/LICENSE-2.0)
+NLTK is distributed under the [http://www.apache.org/licenses/LICENSE-2.0]
 
