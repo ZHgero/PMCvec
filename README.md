@@ -1,4 +1,4 @@
-Obtaining
+#H1 Obtaining
 
 To clone this repository:
 
@@ -9,4 +9,4 @@ You should have Gensim and NLTK installed
 Have the text data in the same directory 
 Run the jupyter notebook to generate the phrases 
  OR 
-use the generated phrases and just run the tagging and modeling building parts
+use the generated phrases and just run the tagging and modele building parts
