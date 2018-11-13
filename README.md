@@ -4,6 +4,8 @@ To clone this repository:
 
 $ git clone http://github.com/zelalemgero/pmcvec.git
 
+The text data can be downloaded from https://www.nlm.nih.gov/databases/download/pubmed_medline.html
+
 ## Running
 You should have Gensim and NLTK installed 
 
