@@ -1,10 +1,10 @@
-## H2 Obtaining
+##  Obtaining
 
 To clone this repository:
 
 $ git clone http://github.com/zelalemgero/pmcvec.git
 
-## H2 Running
+## Running
 You should have Gensim and NLTK installed 
 Have the text data in the same directory 
 Run the jupyter notebook to generate the phrases 
