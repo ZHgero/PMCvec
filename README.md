@@ -1,8 +1,8 @@
-##  Obtaining
+##  Data and trained vectors
 
-To clone this repository:
+The trained word and phrase vectors can be downloaded from the following link:
+https://bonsairesearch-landing.s3.us-east-2.amazonaws.com/publicmodels/pmcvec.bin
 
-$ git clone http://github.com/zelalemgero/pmcvec.git
 
 The text data can be downloaded from https://www.nlm.nih.gov/databases/download/pubmed_medline.html
 
